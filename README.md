@@ -1,2 +1,2 @@
 # MyPortfolio
-https://github.com/Armkaiser/MyPortfolio
+Link to my port : http://bit.ly/Norapat_Portfolio
